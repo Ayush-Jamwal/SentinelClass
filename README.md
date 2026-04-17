@@ -44,8 +44,3 @@ Automatically organizes photographic evidence of violations into a date-structur
 ├── known_faces/            # Student Biometric Database (Sample only)
 ├── .gitignore              # Privacy masking for biometric data
 └── README.md               # Project Documentation
-
----
-
-## ⚖️ License
-Distributed under the **MIT License**. Created for Engineering Seminar 2026.
