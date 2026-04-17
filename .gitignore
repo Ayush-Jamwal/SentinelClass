@@ -1,0 +1,9 @@
+# Folders to hide
+evidence/
+known_faces/Aman/
+known_faces/Ayush/
+__pycache__/
+
+# Large files to hide
+*.pt
+*.pkl
